@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+*.egg-info
+dist
+build
+.pytest_cache
+.mypy_cache
+*.tif
+*.vrt
+*.geojson
+tests/testdata/output/
